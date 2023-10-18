@@ -1,0 +1,45 @@
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.vcxproj.AssemblyReference.cache
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.vcxproj.SuggestedBindingRedirects.cache
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm3.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm4.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm5.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm6.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm7.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm8.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.vcxproj.GenerateResource.cache
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm9.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm10.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm11.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm12.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm13.resources
+D:\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm14.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.vcxproj.AssemblyReference.cache
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.vcxproj.SuggestedBindingRedirects.cache
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm10.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm11.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm12.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm13.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm14.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm3.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm4.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm5.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm6.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm7.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm8.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.MyForm9.resources
+D:\Учеба\С++\Тест С++\Новая папка\Test\Test\x64\Debug\Test.vcxproj.GenerateResource.cache
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.vcxproj.AssemblyReference.cache
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.vcxproj.SuggestedBindingRedirects.cache
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm10.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm11.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm12.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm13.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm14.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm3.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm4.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm5.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm6.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm7.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm8.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.MyForm9.resources
+D:\Учеба\С++\Тест С++\Test\Test\x64\Debug\Test.vcxproj.GenerateResource.cache
